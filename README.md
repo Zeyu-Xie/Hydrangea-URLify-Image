@@ -1,2 +1,3 @@
 # Hydrangea URLify Image
- Transform Image to URL
+
+ A website for transforming images to URLs.
